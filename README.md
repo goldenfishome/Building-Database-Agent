@@ -10,3 +10,6 @@ Perform natural language queries via Azure OpenAI to quickly extract information
 
 File L3_Connecting_to_a_SQL_Database:
 Created a database agent which can use generative AI to translate natural language to SQL code.
+
+File L4_Azure_OpenAI_Function_Calling_Feature:
+Leverage the pre-built functions to send the queries to databases, wiouth the need to expose SQL queries during the translation process. 
